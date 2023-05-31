@@ -28,7 +28,6 @@ website:
         contents:
           - layout.qmd
           - layout-knitr.qmd
-          - layout-jupyter.qmd
 format:
   html:
     theme: cosmo
