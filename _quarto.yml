@@ -1,0 +1,35 @@
+project:
+  type: website
+
+website:
+  title: "Enviro-labs"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: contactus.qmd
+        text: Contact us
+      - href: services.qmd
+        text: Services
+      - href: collaborate.qmd
+        text: Collaborate
+      - Team.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "basics"
+        contents:
+          - index.qmd
+          - basics-knitr.qmd
+          - basics-jupyter.qmd
+      - section: "Layout"
+        contents:
+          - layout.qmd
+          - layout-knitr.qmd
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

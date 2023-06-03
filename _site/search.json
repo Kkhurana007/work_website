@@ -2,7 +2,7 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About the team",
     "section": "",
     "text": "At Enviro Labs, sustainability is at the core of everything we do. We strive to lead by example, implementing environmentally friendly practices within our laboratory and championing sustainable initiatives in our community. From utilizing renewable energy sources to minimizing our carbon footprint, we are dedicated to reducing our environmental impact and inspiring others to follow suit."
   },
@@ -16,9 +16,9 @@
   {
     "objectID": "ourservices.html",
     "href": "ourservices.html",
-    "title": "ourservices",
+    "title": "Enviro-labs",
     "section": "",
-    "text": "Our comprehensive reports help individuals, businesses, and organizations make informed decisions to mitigate environmental risks.\n\n\n\nOur studies help protect endangered species, preserve natural resources, and promote sustainable land management practices.\n\n\n\nBy generating critical data and fostering scientific collaboration, we contribute to shaping policies and strategies for climate adaptation and mitigation.\n\n\n\nOur tailored solutions help industries, municipalities, and communities optimize resource utilization and reduce their environmental footprint."
+    "text": "Our tailored solutions help industries, municipalities, and communities optimize resource utilization and reduce their environmental footprint."
   },
   {
     "objectID": "ourservices.html#environmental-analysis-with-state-of-the-art-equipment-and-advanced-techniques-we-analyze-air-water-soil-and-other-environmental-samples-to-assess-pollution-levels-identify-contaminants-and-evaluate-ecological-impacts.",
@@ -44,7 +44,7 @@
   {
     "objectID": "ourservices.html#waste-management-solutions-we-offer-expertise-in-waste-management-and-disposal-developing-innovative-strategies-to-minimize-waste-generation-promote-recycling-and-safely-handle-hazardous-materials.",
     "href": "ourservices.html#waste-management-solutions-we-offer-expertise-in-waste-management-and-disposal-developing-innovative-strategies-to-minimize-waste-generation-promote-recycling-and-safely-handle-hazardous-materials.",
-    "title": "ourservices",
+    "title": "Enviro-labs",
     "section": "",
     "text": "Our tailored solutions help industries, municipalities, and communities optimize resource utilization and reduce their environmental footprint."
   },
@@ -53,6 +53,13 @@
     "href": "collaborate.html",
     "title": "Collaborate with Enviro Labs",
     "section": "",
-    "text": "We believe that collaboration is key to solving complex environmental challenges. We actively seek partnerships with academic institutions, government agencies, non-profit organizations, and businesses that share our vision of a sustainable future. By working together, we can amplify our impact and drive positive change on a global scale."
+    "text": "Why?\nWe believe that collaboration is key to solving complex environmental challenges. We actively seek partnerships with academic institutions, government agencies, non-profit organizations, and businesses that share our vision of a sustainable future. By working together, we can amplify our impact and drive positive change on a global scale."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Group members",
+    "section": "",
+    "text": "The team in composed of scientists and researchers from the globe.\nHere is the list-"
   }
 ]
